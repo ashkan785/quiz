@@ -1,3 +1,3 @@
 # quiz
 
-js files are in quiz file
+js files are in quiz folder
